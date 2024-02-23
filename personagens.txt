@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ladybug
 Chat Noir
 Marinette
@@ -5,3 +6,12 @@ Adrien
 Natalie
 Gabriel Agreste
 Hawk Moth
+=======
+Marinette Dupain Chegng
+Hawk Moth
+Adrien Agreste
+Ladybug
+Chat Noir
+Nathalie
+Gabriel Agreste
+>>>>>>> outra-ramificacao
